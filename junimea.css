@@ -7,6 +7,11 @@ body{
     padding: 0;
     
 }
+.Teorie{
+    font-size: 1.3rem;
+    
+}
+
 .Navbar{
 background-color: darkblue;
 width: 100%;
@@ -20,10 +25,7 @@ color: white;
     margin: auto;
     font-size: 3rem;
 }
-.text1{
-    margin: auto;
-    margin: 10px 0px 10px 0px;
-}
+
 .header{
     width: 100%;
     display: flex;
@@ -34,13 +36,74 @@ color: white;
 }
 .pgraf{
     display: flex;
+    justify-content: center;
     align-items: center;
     align-content: center;
     width: 80%;
     margin:auto;
+    padding: 10px;
+    font-size: 1.2rem;
 }
 .period{
-
     width: 100%;
+
     
+}
+
+.Bere{
+    height: 300px;
+    width: 600px;
+background-image:url(../Cativa_prieteni_la_o_bere.jpg);
+background-size: cover;
+margin: auto;
+
+}
+.unu{
+    height: 300px;
+    width: 200px;
+background-image:url(../Titu_Maiorescu_-_Foto01.jpg);
+background-size: cover;
+margin: auto;
+}
+.doi{
+    height: 300px;
+    width: 200px;
+background-image: url(../Petre-Carp-portret.jpg);
+background-size: cover;
+margin: auto;
+}
+.trei{
+    height: 300px;
+    width: 200px;
+    background-image:url(../download.jpg) ;
+    background-size: cover;
+margin: auto;
+}
+.patru{
+    height: 300px;
+    width: 200px;
+    background-image:url(../Iacob_Negruzzi.jpg) ;
+    background-size: cover;
+    margin: auto;
+}
+.cinci{
+    height: 300px;
+    width: 200px;
+    background-image: url(../Bossu.jpg);
+    background-size: cover;
+    margin: auto;
+}
+.rep1{
+    height: 300px;
+    width: 200px;
+    background-image: url(../Emi.jpg);
+    background-size: cover;
+    margin: auto;
+}
+.rep2{
+    height: 300px;
+    width: 400px;
+    background-image: url(../Ion.jpg);
+    background-size: cover;
+    margin: auto;
 }

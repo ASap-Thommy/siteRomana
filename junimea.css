@@ -63,7 +63,7 @@ color: white;
 .Bere{
     height: 300px;
     width: 600px;
-background-image:url(../Cativa_prieteni_la_o_bere.jpg);
+background-image:url(../siteRomana/Cativa_prieteni_la_o_bere.jpg);
 background-size: cover;
 margin: auto;
 
@@ -71,7 +71,7 @@ margin: auto;
 .unu{
     height: 300px;
     width: 200px;
-background-image: url(../Petre-Carp-portret.jpg);
+background-image: url(../siteRomana/Titu_Maiorescu_-_Foto01.jpg);
 background-size: cover;
 margin: auto;
 }

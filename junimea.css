@@ -1,10 +1,6 @@
-*{
-    
+/**{
     box-sizing: border-box;
-}
-
-
-
+}*/
 body{
     font-family: 'Montserrat', sans-serif; 
     margin: 0;
@@ -65,7 +61,7 @@ margin: auto;
 .unu{
     height: 300px;
     width: 200px;
-background-image:url(../Titel.jpg);
+background-image:url(../Titel.jpeg);
 background-size: cover;
 margin: auto;
 }
@@ -79,35 +75,35 @@ margin: auto;
 .trei{
     height: 300px;
     width: 200px;
-    background-image:url(../download.jpg) ;
+    background-image:url(../download.jpeg) ;
     background-size: cover;
 margin: auto;
 }
 .patru{
     height: 300px;
     width: 200px;
-  background-image: url(../Negruzzi.jpg);
+  background-image: url(../Negruzzi.jpeg);
     background-size: cover;
     margin: auto;
 }
 .cinci{
     height: 300px;
     width: 200px;
-    background-image: url(../Bossu.jpg);
+    background-image: url(../Bossu.jpeg);
     background-size: cover;
     margin: auto;
 }
 .rep1{
     height: 300px;
     width: 200px;
-    background-image: url(../Emi.jpg);
+    background-image: url(../Emi.jpeg);
     background-size: cover;
     margin: auto;
 }
 .rep2{
     height: 300px;
     width: 400px;
-    background-image: url(../Ion.jpg);
+    background-image: url(../Ion.jpeg);
     background-size: cover;
     margin:auto
 }

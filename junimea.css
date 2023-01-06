@@ -34,6 +34,16 @@ color: white;
     flex-direction: column;
 
 }
+.pgraf1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 80%;
+    margin:auto;
+    padding: 10px;
+    font-size: 2rem;
+}
 .pgraf{
     display: flex;
     justify-content: center;
@@ -58,20 +68,15 @@ background-size: cover;
 margin: auto;
 
 }
-.unu{
-    height: 300px;
-    width: 200px;
-background-image:url(../Titu_Maiorescu_-_Foto01.jpg);
-background-size: cover;
-margin: auto;
-}
-.doi{
+
+/*.doi
+{
     height: 300px;
     width: 200px;
 background-image: url(../Petre-Carp-portret.jpg);
 background-size: cover;
 margin: auto;
-}
+}*/
 .trei{
     height: 300px;
     width: 200px;

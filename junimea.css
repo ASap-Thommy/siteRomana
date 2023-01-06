@@ -1,6 +1,3 @@
-*{
-    box-sizing: border-box;
-}
 body{
     font-family: 'Montserrat', sans-serif; 
     margin: 0;
@@ -9,7 +6,7 @@ body{
 }
 .Teorie{
     font-size: 1.3rem;
-    
+    margin: auto;
 }
 
 .Navbar{
@@ -34,16 +31,6 @@ color: white;
     flex-direction: column;
 
 }
-.pgraf1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    width: 80%;
-    margin:auto;
-    padding: 10px;
-    font-size: 2rem;
-}
 .pgraf{
     display: flex;
     justify-content: center;
@@ -63,31 +50,22 @@ color: white;
 .Bere{
     height: 300px;
     width: 600px;
-background-image:url(../siteRomana/Cativa_prieteni_la_o_bere.jpg);
+background-image:url(../Cativa_prieteni_la_o_bere.jpg);
 background-size: cover;
 margin: auto;
 
-}
-.img{
-    height: 300px;
-    width: 600px;
-background-image:url(../siteRomana/);
-background-size: cover;
-margin: auto;
 }
 .unu{
     height: 300px;
     width: 200px;
-background-image: url(../siteRomana/Titu_Maiorescu_-_Foto01.jpg);
+background-image:url(../Titel.jpg);
 background-size: cover;
 margin: auto;
 }
-
-.doi
-{
+.doi{
     height: 300px;
     width: 200px;
-background-image: url(../Petre-Carp-portret.jpg);
+background-image: url(./Carp.jpeg);
 background-size: cover;
 margin: auto;
 }
@@ -101,7 +79,7 @@ margin: auto;
 .patru{
     height: 300px;
     width: 200px;
-    background-image:url(../Iacob_Negruzzi.jpg) ;
+  background-image: url(../Negruzzi.jpg);
     background-size: cover;
     margin: auto;
 }
@@ -124,5 +102,5 @@ margin: auto;
     width: 400px;
     background-image: url(../Ion.jpg);
     background-size: cover;
-    margin: auto;
+    margin:auto
 }

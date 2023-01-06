@@ -68,6 +68,13 @@ background-size: cover;
 margin: auto;
 
 }
+.img{
+    height: 300px;
+    width: 600px;
+background-image:url(../siteRomana/Titu_Maiorescu_-_Foto01.jpg);
+background-size: cover;
+margin: auto;
+}
 .unu{
     height: 300px;
     width: 200px;

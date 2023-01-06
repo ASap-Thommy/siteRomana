@@ -68,15 +68,22 @@ background-size: cover;
 margin: auto;
 
 }
+.unu{
+    height: 300px;
+    width: 200px;
+background-image: url(../Petre-Carp-portret.jpg);
+background-size: cover;
+margin: auto;
+}
 
-/*.doi
+.doi
 {
     height: 300px;
     width: 200px;
 background-image: url(../Petre-Carp-portret.jpg);
 background-size: cover;
 margin: auto;
-}*/
+}
 .trei{
     height: 300px;
     width: 200px;

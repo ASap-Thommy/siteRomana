@@ -49,7 +49,15 @@ color: white;
 
     
 }
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    padding: 10px;
 
+}
 .doi{
     height: 300px;
     width: 200px;

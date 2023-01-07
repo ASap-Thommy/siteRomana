@@ -50,21 +50,6 @@ color: white;
     
 }
 
-.Bere{
-    height: 300px;
-    width: 600px;
-background-image:url(../Cativa_prieteni_la_o_bere.jpg);
-background-size: cover;
-margin: auto;
-
-}
-.unu{
-    height: 300px;
-    width: 200px;
-background-image:url(../Titel.jpeg);
-background-size: cover;
-margin: auto;
-}
 .doi{
     height: 300px;
     width: 200px;
@@ -72,38 +57,7 @@ background-image: url(./Carp.jpeg);
 background-size: cover;
 margin: auto;
 }
-.trei{
-    height: 300px;
-    width: 200px;
-    background-image:url(../download.jpeg) ;
-    background-size: cover;
-margin: auto;
-}
-.patru{
-    height: 300px;
-    width: 200px;
-  background-image: url(../Negruzzi.jpeg);
-    background-size: cover;
-    margin: auto;
-}
-.cinci{
-    height: 300px;
-    width: 200px;
-    background-image: url(../Bossu.jpeg);
-    background-size: cover;
-    margin: auto;
-}
-.rep1{
-    height: 300px;
-    width: 200px;
-    background-image: url(../Emi.jpeg);
-    background-size: cover;
-    margin: auto;
-}
-.rep2{
-    height: 300px;
-    width: 400px;
-    background-image: url(../Ion.jpeg);
-    background-size: cover;
-    margin:auto
+.img{
+ margin: auto;
+
 }
